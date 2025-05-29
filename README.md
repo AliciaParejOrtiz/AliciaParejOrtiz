@@ -27,7 +27,6 @@ Mi enfoque es garantizar **soluciones robustas, escalables y centradas en la exp
     <img src="https://img.shields.io/badge/WebSite-FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Página web">
   </a>
 </p>
----
 
 ## 🏆 Habilidades  
 ✅ **Frontend & Backend**  
