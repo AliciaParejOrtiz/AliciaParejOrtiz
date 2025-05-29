@@ -50,13 +50,17 @@ Especializada en **Frontend & Backend**, creando interfaces intuitivas y funcion
 
 ## 🔗 Conéctate conmigo
 <p align="center">
-  <a href="[https://www.linkedin.com/in/example/](https://www.linkedin.com/in/alicia-parejo-ortiz-b88a81336/)" target="_blank">
+  <a href="https://www.linkedin.com/in/alicia-parejo-ortiz-b88a81336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:aliciaparejortiz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://aliciaparejortiz.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/WebSite-FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Página web">
+  </a>
 </p>
+
 
 ---
 ## 📊 GitHub Stats  
