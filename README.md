@@ -11,7 +11,7 @@
 <img align="right" width=250px alt="Coding Cat" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif"/>
 
 ## 💻 Sobre mí  
-Soy **Desarrolladora y Diseñadora Web**, apasionada por la creatividad digital 🎨 y la tecnología.  
+Soy **Desarrolladora y Diseñadora Web**, apasionada por la creatividad digital y la tecnología.  
 Especializada en **Frontend & Backend**, creando interfaces intuitivas y funcionales.  
 
 - 🚀 **Desarrollo con:** HTML, CSS, JavaScript, React, Angular, Node.js.
