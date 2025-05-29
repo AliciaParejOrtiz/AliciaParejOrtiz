@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<img align="right" width=250px alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width=250px alt="Coding Cat" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif"/>
 
 ## 💻 Sobre mí  
 Soy **Desarrolladora y Diseñadora Web**, apasionada por la creatividad digital 🎨 y la tecnología 💡.  
@@ -60,4 +60,6 @@ Especializada en **Frontend & Backend**, creando interfaces intuitivas y funcion
 </p>
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliciaParejOrtiz&show_icons=true&theme=radical)
+
