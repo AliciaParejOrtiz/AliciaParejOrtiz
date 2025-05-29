@@ -14,7 +14,7 @@
 Soy **Desarrolladora y Diseñadora Web**, apasionada por la creatividad digital y la tecnología.  
 Mi enfoque es garantizar **soluciones robustas, escalables y centradas en la experiencia del usuario**, combinando diseños intuitivos, escalabilidad y rendimiento.  
 - 🤝 **Colaboro en proyectos open-source** para seguir aprendiendo y compartir conocimientos.
-- 📧 **Contáctame:** [email](mailto:tuemail@example.com)
+
 
 ---
 
