@@ -18,7 +18,6 @@ Especializada en **Frontend & Backend**, creando interfaces intuitivas y funcion
 - 🎨 **Diseño UI/UX:** Adobe XD, Figma, Photoshop, ZBrush.
 - 🔍 **Optimización Web:** SEO, accesibilidad y performance.
 - 🤝 **Colaboro en proyectos open-source** para seguir aprendiendo y compartir conocimientos.
-- 📧 **Contáctame:** [email](mailto:tuemail@example.com)
 
 ---
 
