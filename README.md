@@ -13,10 +13,6 @@
 ## 💻 Sobre mí  
 Soy **Desarrolladora y Diseñadora Web**, apasionada por la creatividad digital y la tecnología.  
 Mi enfoque es garantizar **soluciones robustas, escalables y centradas en la experiencia del usuario**, combinando diseños intuitivos, escalabilidad y rendimiento.  
-
-- 🚀 **Desarrollo con:** HTML, CSS, JavaScript, React, Angular, Node.js.
-- 🎨 **Diseño UI/UX:** Adobe XD, Figma, Photoshop, ZBrush.
-- 🔍 **Optimización Web:** SEO, accesibilidad y performance.
 - 🤝 **Colaboro en proyectos open-source** para seguir aprendiendo y compartir conocimientos.
 - 📧 **Contáctame:** [email](mailto:tuemail@example.com)
 
